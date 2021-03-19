@@ -7,6 +7,8 @@ public class program {
         System.out.println(System.getProperty("java.version"));
         Dev2 krystian = new Dev2("Krystian Strączek");
         System.out.println(krystian.getAuthor());
+        DEV1 Jarek = new DEV1("Jarosław Serwaczak");
+        System.out.println(Jarek.getAuthor());
 
     }
 }
